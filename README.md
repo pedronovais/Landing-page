@@ -1,6 +1,6 @@
 Projeto construido no dia 28/09/2022.
 
-[Clique aqui para acessar](https://pedronovais.github.io/landing-page/)
+[Clique aqui para acessar](https://pedronovais.github.io/Landing-page/)
 
 
 💻 Tecnologias
