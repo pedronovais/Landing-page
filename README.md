@@ -9,5 +9,7 @@ CSS
 GIT e GITHUB
 
 📲 Contato
+
 Email : pedrodiasnovais@hotmail.com
+
 linkedin : https://www.linkedin.com/in/pedronovaisoficial
