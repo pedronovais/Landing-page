@@ -2,7 +2,7 @@
 
 ![preview](./github/preview.png)
 
-[Clique aqui para acessar](https://pedronovais.github.io/landing-page/)
+🔗 [Clique aqui para acessar](https://pedronovais.github.io/landing-page/)
 
 
 ## 💻 Tecnologias
